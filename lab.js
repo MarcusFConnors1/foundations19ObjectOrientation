@@ -23,7 +23,8 @@ const me = {
 const dog = {
   name: "cat",
   color: "red",
-  age: 200
+  age: 200,
+  goodboy: true
 }
 
 //////////////////////////// PROBLEM 3 ////////////////////////////
